@@ -1,2 +1,3 @@
 # Texting-app
- web-based application
+
+Web-Based Chat Application using Sockets and Javascript.
